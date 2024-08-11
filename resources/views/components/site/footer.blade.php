@@ -1,6 +1,6 @@
 <footer>
     <!--? Footer Start-->
-    <div class="footer-area section-bg" data-background="site/assets/img/gallery/footer_bg.jpg">
+    <div class="footer-area section-bg" data-background="public/site/assets/img/gallery/footer_bg.jpg">
         <div class="container">
             <div class="footer-top footer-padding">
                 <div class="row d-flex justify-content-between">
@@ -8,7 +8,7 @@
                         <div class="single-footer-caption mb-50">
                             <!-- logo -->
                             <div class="footer-logo">
-                                <a href="index.html"><img src="site/assets/img/logo/logo2-white.png" alt="" class="logo-img"></a>
+                                <a href="index.html"><img src="public/site/assets/img/logo/logo2-white.png" alt="" class="logo-img"></a>
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">

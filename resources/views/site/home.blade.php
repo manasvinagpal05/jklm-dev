@@ -94,12 +94,13 @@
     </div>
     <!-- Services Area End -->
     <!--? About Area Start-->
-    <div class="support-company-area pt-30 pb-30 section-bg fix" data-background="site/assets/img/gallery/section_bg02.jpg">
+    <div class="support-company-area pt-30 pb-30 section-bg fix" data-background="public/site/assets/img/gallery/section_bg02.jpg">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="support-location-img">
-                        <img src="site/assets/img/gallery/about-section.png" alt="">
+                        <img src="/public/site/assets/img/gallery/about-section.png" 
+alt="">
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6">
@@ -198,7 +199,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="site/assets/img/gallery/team2.png" alt="">
+                            <img src="public/site/assets/img/gallery/team2.png" alt="">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Jitender Nagpal</a></h3>
@@ -209,7 +210,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="site/assets/img/gallery/team3.png" alt="">
+                            <img src="public/site/assets/img/gallery/team3.png" alt="">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Sunil Dhobal</a></h3>
@@ -220,7 +221,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="site/assets/img/gallery/team1.png" alt="">
+                            <img src="public/site/assets/img/gallery/team1.png" alt="">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Ethan Welch</a></h3>
@@ -234,7 +235,7 @@
     <!--? new section Start -->
 <!-- New Scrolling Blog Section Start -->
 <!-- News Section Start -->
-<div class="testimonial-area testimonial-padding" data-background="site/assets/img/gallery/section_bg04.jpg">
+<div class="testimonial-area testimonial-padding" data-background="public/site/assets/img/gallery/section_bg04.jpg">
     <div class="container">
         <div class="row">
             <div class="mx-auto mb-30">
@@ -320,7 +321,7 @@
 
     <!-- Team End -->
     <!-- Want To work -->
-    <section class="wantToWork-area w-padding2 section-bg" data-background="site/assets/img/gallery/section_bg03.jpg">
+    <section class="wantToWork-area w-padding2 section-bg" data-background="public/site/assets/img/gallery/section_bg03.jpg">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-xl-7 col-lg-9 col-md-8">
@@ -352,7 +353,7 @@
                     <div class="home-blog-single mb-30">
                         <div class="blog-img-cap">
                             <div class="blog-img">
-                                <img src="site/assets/img/gallery/home_blog1.png" alt="">
+                                <img src="public/site/assets/img/gallery/home_blog1.png" alt="">
                                 <ul>
                                     <li>By Admin   -   October 27, 2020</li>
                                 </ul>
@@ -369,7 +370,7 @@
                     <div class="home-blog-single mb-30">
                         <div class="blog-img-cap">
                             <div class="blog-img">
-                                <img src="site/assets/img/gallery/home_blog2.png" alt="">
+                                <img src="public/site/assets/img/gallery/home_blog2.png" alt="">
                                 <ul>
                                     <li>By Admin   -   October 27, 2020</li>
                                 </ul>
@@ -391,22 +392,22 @@
         <div class="container">
             <div class="brand-active brand-border pb-40">
                 <div class="single-brand">
-                    <img src="site/assets/img/gallery/brand1.png" alt="">
+                    <img src="public/site/assets/img/gallery/brand1.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="site/assets/img/gallery/brand2.png" alt="">
+                    <img src="public/site/assets/img/gallery/brand2.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="site/assets/img/gallery/brand3.png" alt="">
+                    <img src="public/site/assets/img/gallery/brand3.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="site/assets/img/gallery/brand4.png" alt="">
+                    <img src="public/site/assets/img/gallery/brand4.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="site/assets/img/gallery/brand2.png" alt="">
+                    <img src="public/site/assets/img/gallery/brand2.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="site/assets/img/gallery/brand5.png" alt="">
+                    <img src="public/site/assets/img/gallery/brand5.png" alt="">
                 </div>
             </div>
         </div>
