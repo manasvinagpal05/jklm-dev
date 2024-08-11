@@ -7,11 +7,11 @@
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="manifest" href="site.webmanifest">
-	<link rel="shortcut icon" type="image/x-icon" href="public/site/assets/img/logo/logo2.png" style="height:15px;">
+	<link rel="shortcut icon" type="image/x-icon" href="site/assets/img/logo/logo2.png" style="height:15px;">
 
 	<!-- CSS here -->
-	<link rel="stylesheet" href="public/site/assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="public/site/assets/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="site/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="site/assets/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="public/site/assets/css/slicknav.css">
 	<link rel="stylesheet" href="public/site/assets/css/flaticon.css">
 	<link rel="stylesheet" href="public/site/assets/css/animate.min.css">
