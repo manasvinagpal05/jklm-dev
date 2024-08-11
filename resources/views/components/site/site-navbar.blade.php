@@ -4,7 +4,7 @@
             <!-- Logo -->
             <div class="col-xl-2 col-lg-2">
                 <div class="logo">
-                    <a href="/"><img src="public/site/assets/img/logo/logo2.png" class="logo-img" alt=""></a>
+                    <a href="/"><img src="/site/assets/img/logo/logo2.png" class="logo-img" alt=""></a>
                 </div>
             </div>
             <div class="col-xl-10 col-lg-10">
