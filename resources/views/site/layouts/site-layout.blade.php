@@ -12,6 +12,7 @@
 	<!-- CSS here -->
 	<link rel="stylesheet" href="site/assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="site/assets/css/owl.carousel.min.css">
+<<<<<<< HEAD
 	<link rel="stylesheet" href="public/site/assets/css/slicknav.css">
 	<link rel="stylesheet" href="public/site/assets/css/flaticon.css">
 	<link rel="stylesheet" href="public/site/assets/css/animate.min.css">
@@ -21,6 +22,17 @@
 	<link rel="stylesheet" href="public/site/assets/css/nice-select.css">
 	<link rel="stylesheet" href="public/site/assets/css/style.css">
 	<link rel="stylesheet" href="public/site/assets/css/custom.css">
+=======
+	<link rel="stylesheet" href="site/assets/css/slicknav.css">
+	<link rel="stylesheet" href="site/assets/css/flaticon.css">
+	<link rel="stylesheet" href="site/assets/css/animate.min.css">
+	<link rel="stylesheet" href="site/assets/css/magnific-popup.css">
+	<link rel="stylesheet" href="site/assets/css/themify-icons.css">
+	<link rel="stylesheet" href="site/assets/css/slick.css">
+	<link rel="stylesheet" href="site/assets/css/nice-select.css">
+	<link rel="stylesheet" href="site/assets/css/style.css">
+	<link rel="stylesheet" href="site/assets/css/custom.css">
+>>>>>>> 4b1961839ab3e2cf63921e5687c00662933d21aa
     <script src="https://kit.fontawesome.com/8f70775512.js" crossorigin="anonymous"></script>
 </head>
 
@@ -31,7 +43,7 @@
         <div class="preloader-inner position-relative">
             <div class="preloader-circle"></div>
             <div class="preloader-img pere-text">
-                <img src="public/site/assets/img/logo/logo2.png" style="height:30px;" alt="">
+                <img src="site/assets/img/logo/logo2.png" style="height:30px;" alt="">
             </div>
         </div>
     </div>
@@ -55,36 +67,36 @@
     <div id="back-top" >
         <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
     </div>
-    <script src="public/site/assets/js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="public/site/assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="public/site/assets/js/popper.min.js"></script>
-    <script src="public/site/assets/js/bootstrap.min.js"></script>
-    <script src="public/site/assets/js/jquery.slicknav.min.js"></script>
-    <script src="public/site/assets/js/owl.carousel.min.js"></script>
-    <script src="public/site/assets/js/slick.min.js"></script>
+    <script src="site/assets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="site/assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="site/assets/js/popper.min.js"></script>
+    <script src="site/assets/js/bootstrap.min.js"></script>
+    <script src="site/assets/js/jquery.slicknav.min.js"></script>
+    <script src="site/assets/js/owl.carousel.min.js"></script>
+    <script src="site/assets/js/slick.min.js"></script>
     <!-- One Page, Animated-HeadLin -->
-    <script src="public/site/assets/js/wow.min.js"></script>
-    <script src="public/site/assets/js/animated.headline.js"></script>
-    <script src="public/site/assets/js/jquery.magnific-popup.js"></script>
+    <script src="site/assets/js/wow.min.js"></script>
+    <script src="site/assets/js/animated.headline.js"></script>
+    <script src="site/assets/js/jquery.magnific-popup.js"></script>
 
     <!-- Nice-select, sticky -->
-    <script src="public/site/assets/js/jquery.nice-select.min.js"></script>
-    <script src="public/site/assets/js/jquery.sticky.js"></script>
+    <script src="site/assets/js/jquery.nice-select.min.js"></script>
+    <script src="site/assets/js/jquery.sticky.js"></script>
 
     <!-- counter , waypoint -->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src="public/site/assets/js/jquery.counterup.min.js"></script>
+    <script src="site/assets/js/jquery.counterup.min.js"></script>
     
     <!-- contact js -->
-    <script src="public/site/assets/js/contact.js"></script>
-    <script src="public/site/assets/js/jquery.form.js"></script>
-    <script src="public/site/assets/js/jquery.validate.min.js"></script>
-    <script src="public/site/assets/js/mail-script.js"></script>
-    <script src="public/site/assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="site/assets/js/contact.js"></script>
+    <script src="site/assets/js/jquery.form.js"></script>
+    <script src="site/assets/js/jquery.validate.min.js"></script>
+    <script src="site/assets/js/mail-script.js"></script>
+    <script src="site/assets/js/jquery.ajaxchimp.min.js"></script>
     
     <!-- Jquery Plugins, main Jquery -->	
-    <script src="public/site/assets/js/plugins.js"></script>
-    <script src="public/site/assets/js/main.js"></script>
+    <script src="site/assets/js/plugins.js"></script>
+    <script src="site/assets/js/main.js"></script>
         
     </body>
 </html>
