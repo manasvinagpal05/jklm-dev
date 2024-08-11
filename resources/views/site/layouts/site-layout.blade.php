@@ -12,17 +12,6 @@
 	<!-- CSS here -->
 	<link rel="stylesheet" href="site/assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="site/assets/css/owl.carousel.min.css">
-<<<<<<< HEAD
-	<link rel="stylesheet" href="public/site/assets/css/slicknav.css">
-	<link rel="stylesheet" href="public/site/assets/css/flaticon.css">
-	<link rel="stylesheet" href="public/site/assets/css/animate.min.css">
-	<link rel="stylesheet" href="public/site/assets/css/magnific-popup.css">
-	<link rel="stylesheet" href="public/site/assets/css/themify-icons.css">
-	<link rel="stylesheet" href="public/site/assets/css/slick.css">
-	<link rel="stylesheet" href="public/site/assets/css/nice-select.css">
-	<link rel="stylesheet" href="public/site/assets/css/style.css">
-	<link rel="stylesheet" href="public/site/assets/css/custom.css">
-=======
 	<link rel="stylesheet" href="site/assets/css/slicknav.css">
 	<link rel="stylesheet" href="site/assets/css/flaticon.css">
 	<link rel="stylesheet" href="site/assets/css/animate.min.css">
@@ -32,7 +21,6 @@
 	<link rel="stylesheet" href="site/assets/css/nice-select.css">
 	<link rel="stylesheet" href="site/assets/css/style.css">
 	<link rel="stylesheet" href="site/assets/css/custom.css">
->>>>>>> 4b1961839ab3e2cf63921e5687c00662933d21aa
     <script src="https://kit.fontawesome.com/8f70775512.js" crossorigin="anonymous"></script>
 </head>
 
