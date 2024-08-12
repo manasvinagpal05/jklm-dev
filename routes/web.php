@@ -1,10 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-// use App\Http\Controllers\HomeController;
-
-// Route::get('/', function () {
-//     return view('welcome');
-// });
-// Route::get('/', [HomeController::class, 'index']);
 Route::get('/', function () {return view('site.home');});
+Auth::routes();
+
+include(__DIR__ . '/admin/admin.php');
+
+
