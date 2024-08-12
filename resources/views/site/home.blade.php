@@ -202,8 +202,8 @@ alt="">
                             <img src="site/assets/img/gallery/team2.png" alt="">
                         </div>
                         <div class="team-caption">
-                            <h3><a href="#">Jitender Nagpal</a></h3>
-                            <span></span>
+                        <h3><a href="#">Sunil Dhobal</a></h3>
+                        <span>Sr Consultant</span>
                         </div>
                     </div>
                 </div>
@@ -213,8 +213,8 @@ alt="">
                             <img src="site/assets/img/gallery/team3.png" alt="">
                         </div>
                         <div class="team-caption">
-                            <h3><a href="#">Sunil Dhobal</a></h3>
-                            <span>UX Designer</span>
+                            <h3><a href="#">Jitender Nagpal</a></h3>
+                            <span>Sr Consultant</span>
                         </div>
                     </div>
                 </div>
