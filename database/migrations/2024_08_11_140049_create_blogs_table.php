@@ -27,8 +27,6 @@ return new class extends Migration
 			$table->timestamp('updated_at')->nullable(); 
             $table->softDeletes();
 
-            $table->foreign('category_id')->references('id')->on('categories')->onDelete('set null');
-            $table->foreign('status_id')->references('id')->on('statuses')->onDelete('cascade');
         });
     }
 
