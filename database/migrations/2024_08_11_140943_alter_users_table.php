@@ -13,7 +13,6 @@ return new class extends Migration
     {
         Schema::table('users', function (Blueprint $table) {
             $table->unsignedBigInteger('role_id')->after('id'); // Move role_id after 'id'
-            $table->foreign('role_id')->references('id')->on('roles')->onDelete('cascade');
             $table->string('address')->nullable()->after('email');
             $table->softDeletes();        
         });
@@ -25,7 +24,6 @@ return new class extends Migration
     public function down(): void
     {
         Schema::table('users', function (Blueprint $table) {
-            $table->dropForeign(['role_id']);
             $table->dropColumn('role_id');
             $table->dropColumn('address');
             $table->dropSoftDeletes(); 
